@@ -1,0 +1,18 @@
+{
+    "home": {
+      "title": "English",
+      "sl" : "Sri Lanka",
+      "new_cases": "New cases",
+      "gb" : "Global",
+      "tc" : "Total cases",
+      "recovered" : "Recovered",
+      "Deaths" : "Deaths",
+      "cl" : "Cumulative locals",
+      "cf" : "Cumulative foreign",
+      "tl" : "Treatment locals",
+      "tf" : "Treatment foreign",
+      "all_pations" : "Number of individuals in hospitals"   
+    },
+    "hello": "สวัสดี {name}!"
+    
+  }

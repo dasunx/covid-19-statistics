@@ -1,14 +1,19 @@
 {
   "name": "covid",
+  "homepage": "http://dasunx.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "html-to-image": "^0.1.1",
+    "node-sass": "^4.13.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "3.4.0",
+    "react-share": "^4.1.0",
+    "react-switch-lang": "^1.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
