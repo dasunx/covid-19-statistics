@@ -16,7 +16,7 @@ class App extends React.Component {
     }
   }
   componentDidMount() {
-    fetch("http://hpb.health.gov.lk/api/get-current-statistical")
+    fetch("https://hpb.health.gov.lk/api/get-current-statistical")
       .then(res => res.json())
       .then(
         (result) => {
